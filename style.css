@@ -1,6 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Courgette&family=Sacramento&family=Special+Elite&display=swap');
 h1{
     color: rgb(105, 126, 126);
     text-align: center;
+    font-family: 'Courgette', cursive;
 }
 body{
     background-color: rgb(177, 202, 202);
@@ -70,6 +72,7 @@ header{
     
     .caja img{
         border-radius: 30%;
+        padding: 10px;
     }
 
     .caja p{
